@@ -1,0 +1,9 @@
+C:\eva\Projects\dotNet\TimerService\Common\bin\Debug\Common.dll
+C:\eva\Projects\dotNet\TimerService\Common\bin\Debug\Common.pdb
+C:\eva\Projects\dotNet\TimerService\Common\bin\Debug\Newtonsoft.Json.dll
+C:\eva\Projects\dotNet\TimerService\Common\bin\Debug\Newtonsoft.Json.xml
+C:\eva\Projects\dotNet\TimerService\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\eva\Projects\dotNet\TimerService\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\eva\Projects\dotNet\TimerService\Common\obj\Debug\Common.csproj.CopyComplete
+C:\eva\Projects\dotNet\TimerService\Common\obj\Debug\Common.dll
+C:\eva\Projects\dotNet\TimerService\Common\obj\Debug\Common.pdb

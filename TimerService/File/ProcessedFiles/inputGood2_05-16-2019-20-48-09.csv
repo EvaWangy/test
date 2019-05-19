@@ -1,0 +1,83 @@
+RecordId,TRackBC,TPositionId,TStatusSummary,TSumStateDescription,SPositionBC,ActionDateTime,UserName
+1,PLATE10000-E,A1,0,Correct pipetting,1402280692,1/1/2014 12:25,Hokey.Pokey
+2,PLATE10000-E,B1,0,Correct pipetting,1402281412,1/1/2014 12:25,Hokey.Pokey
+3,PLATE10000-E,C1,0,Correct pipetting,1402270838,1/1/2014 12:25,Hokey.Pokey
+4,PLATE10000-E,D1,0,Correct pipetting,1402282256,1/1/2014 12:25,Hokey.Pokey
+5,PLATE10000-E,E1,0,Correct pipetting,1402282440,1/1/2014 12:25,Hokey.Pokey
+6,PLATE10000-E,F1,0,Correct pipetting,1402280133,1/1/2014 12:25,Hokey.Pokey
+7,PLATE10000-E,G1,0,Correct pipetting,1402281567,1/1/2014 12:25,Hokey.Pokey
+8,PLATE10000-E,H1,0,Correct pipetting,1402270017,1/1/2014 12:25,Hokey.Pokey
+9,PLATE10000-E,A2,0,Failed pipetting,1402280692,1/1/2014 12:26,Hokey.Pokey
+10,PLATE10000-E,B2,0,Correct pipetting,1402281412,1/1/2014 12:26,Hokey.Pokey
+11,PLATE10000-E,C2,0,Correct pipetting,1402270838,1/1/2014 12:26,Hokey.Pokey
+12,PLATE10000-E,D2,0,Correct pipetting,1402282256,1/1/2014 12:26,Hokey.Pokey
+13,PLATE10000-E,E2,0,Correct pipetting,1402282440,1/1/2014 12:26,Hokey.Pokey
+14,PLATE10000-E,F2,0,Correct pipetting,1402280133,1/1/2014 12:26,Hokey.Pokey
+15,PLATE10000-E,G2,0,Correct pipetting,1402281567,1/1/2014 12:26,Hokey.Pokey
+16,PLATE10000-E,H2,0,Correct pipetting,1402270017,1/1/2014 12:26,Hokey.Pokey
+18,PLATE10000-E,B3,0,Correct pipetting,1402270082,1/1/2014 12:26,Hokey.Pokey
+19,PLATE10000-E,C3,0,Correct pipetting,1402282445,1/1/2014 12:26,Hokey.Pokey
+20,PLATE10000-E,D3,0,Correct pipetting,1402281520,1/1/2014 12:26,Hokey.Pokey
+21,PLATE10000-E,E3,0,Correct pipetting,1402281540,1/1/2014 12:26,Hokey.Pokey
+22,PLATE10000-E,F3,0,Correct pipetting,1402280355,1/1/2014 12:26,Hokey.Pokey
+23,PLATE10000-E,G3,0,Correct pipetting,1402281694,1/1/2014 12:26,Hokey.Pokey
+24,PLATE10000-E,H3,0,Correct pipetting,1402271604,1/1/2014 12:26,Hokey.Pokey
+25,PLATE10000-E,A4,0,Correct pipetting,1402281266,1/1/2014 12:27,Hokey.Pokey
+26,PLATE10000-E,B4,0,Correct pipetting,1402270082,1/1/2014 12:27,Hokey.Pokey
+27,PLATE10002-E,C4,0,Correct pipetting,1402282445,1/1/2014 12:27,Hokey.Pokey
+28,PLATE10000-E,D4,0,Correct pipetting,1402281520,1/1/2014 12:27,Hokey.Pokey
+29,PLATE10000-E,E4,0,Correct pipetting,1402281540,1/1/2014 12:27,Hokey.Pokey
+30,PLATE10000-E,F4,0,Correct pipetting,1402280355,1/1/2014 12:27,Hokey.Pokey
+31,PLATE10000-E,G4,0,Correct pipetting,1402281694,1/1/2014 12:27,Hokey.Pokey
+32,PLATE10000-E,H4,0,Correct pipetting,1402271604,1/1/2014 12:27,Hokey.Pokey
+33,PLATE10000-E,A5,0,Correct pipetting,1402281188,1/1/2014 12:28,Hokey.Pokey
+34,PLATE10000-E,B5,0,Correct pipetting,1402280321,1/1/2014 12:28,Hokey.Pokey
+35,PLATE10000-E,C5,0,Correct pipetting,1402280562,1/1/2014 12:28,Hokey.Pokey
+36,PLATE10000-E,D5,0,Correct pipetting,1402280325,1/1/2014 12:28,Hokey.Pokey
+37,PLATE10000-E,E5,0,Correct pipetting,1402280359,1/1/2014 12:28,Hokey.Pokey
+38,PLATE10000-E,F5,0,Failed pipetting,1402280366,1/1/2014 12:28,Hokey.Pokey
+39,PLATE10000-E,G5,0,Correct pipetting,1402281528,1/1/2014 12:28,Hokey.Pokey
+40,PLATE10000-E,H5,0,Correct pipetting,1402281513,1/1/2014 12:28,Hokey.Pokey
+41,PLATE10000-E,A6,0,Correct pipetting,1402281188,1/1/2014 12:28,Hokey.Pokey
+42,PLATE10000-E,B6,0,Correct pipetting,1402280321,1/1/2014 12:28,Hokey.Pokey
+43,PLATE10000-E,C6,0,Correct pipetting,1402280562,1/1/2014 12:28,Hokey.Pokey
+44,PLATE10000-E,D6,0,Correct pipetting,1402280325,1/1/2014 12:28,Hokey.Pokey
+45,PLATE10000-E,E6,0,Correct pipetting,1402280359,1/1/2014 12:28,Hokey.Pokey
+46,PLATE10000-E,F6,0,Correct pipetting,1402280366,1/1/2014 12:28,Hokey.Pokey
+47,PLATE10000-E,G6,0,Correct pipetting,1402281528,1/1/2014 12:28,Hokey.Pokey
+48,PLATE10000-E,H6,0,Correct pipetting,1402281513,1/1/2014 12:28,Hokey.Pokey
+49,PLATE10000-E,A7,0,Correct pipetting,1402281547,1/1/2014 12:29,Hokey.Pokey
+50,PLATE10000-E,B7,0,Correct pipetting,1402281526,1/1/2014 12:29,Hokey.Pokey
+51,PLATE10000-E,C7,0,Correct pipetting,1402271617,1/1/2014 12:29,Hokey.Pokey
+52,PLATE10000-E,D7,0,Correct pipetting,1402280349,1/1/2014 12:29,Hokey.Pokey
+53,PLATE10000-E,E7,0,Correct pipetting,1402280587,1/1/2014 12:29,Hokey.Pokey
+54,PLATE10000-E,F7,0,Correct pipetting,1402280567,1/1/2014 12:29,Hokey.Pokey
+55,PLATE10000-E,G7,0,Correct pipetting,1402281692,1/1/2014 12:29,Hokey.Pokey
+56,PLATE10000-E,H7,0,Correct pipetting,1402280335,1/1/2014 12:29,Hokey.Pokey
+57,PLATE10000-E,A8,0,Correct pipetting,1402281547,1/1/2014 12:29,Hokey.Pokey
+58,PLATE10000-E,B8,0,Correct pipetting,1402281526,1/1/2014 12:29,Hokey.Pokey
+59,PLATE10000-E,C8,0,Correct pipetting,1402271617,1/1/2014 12:29,Hokey.Pokey
+60,PLATE10000-E,D8,0,Correct pipetting,1402280349,1/1/2014 12:29,Hokey.Pokey
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

@@ -1,0 +1,11 @@
+C:\eva\Projects\dotNet\TimerService\CsvToJson\bin\Debug\CsvToJson.dll
+C:\eva\Projects\dotNet\TimerService\CsvToJson\bin\Debug\CsvToJson.pdb
+C:\eva\Projects\dotNet\TimerService\CsvToJson\bin\Debug\Common.dll
+C:\eva\Projects\dotNet\TimerService\CsvToJson\bin\Debug\Newtonsoft.Json.dll
+C:\eva\Projects\dotNet\TimerService\CsvToJson\bin\Debug\Common.pdb
+C:\eva\Projects\dotNet\TimerService\CsvToJson\bin\Debug\Newtonsoft.Json.xml
+C:\eva\Projects\dotNet\TimerService\CsvToJson\obj\Debug\CsvToJson.csprojAssemblyReference.cache
+C:\eva\Projects\dotNet\TimerService\CsvToJson\obj\Debug\CsvToJson.csproj.CoreCompileInputs.cache
+C:\eva\Projects\dotNet\TimerService\CsvToJson\obj\Debug\CsvToJson.csproj.CopyComplete
+C:\eva\Projects\dotNet\TimerService\CsvToJson\obj\Debug\CsvToJson.dll
+C:\eva\Projects\dotNet\TimerService\CsvToJson\obj\Debug\CsvToJson.pdb

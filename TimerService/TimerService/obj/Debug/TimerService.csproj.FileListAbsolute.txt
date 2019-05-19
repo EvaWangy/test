@@ -1,0 +1,14 @@
+C:\eva\Projects\dotNet\TimerService\TimerService\bin\Debug\TimerService.exe.config
+C:\eva\Projects\dotNet\TimerService\TimerService\bin\Debug\TimerService.exe
+C:\eva\Projects\dotNet\TimerService\TimerService\bin\Debug\TimerService.pdb
+C:\eva\Projects\dotNet\TimerService\TimerService\bin\Debug\Common.dll
+C:\eva\Projects\dotNet\TimerService\TimerService\bin\Debug\Newtonsoft.Json.dll
+C:\eva\Projects\dotNet\TimerService\TimerService\bin\Debug\Common.pdb
+C:\eva\Projects\dotNet\TimerService\TimerService\bin\Debug\Newtonsoft.Json.xml
+C:\eva\Projects\dotNet\TimerService\TimerService\obj\Debug\TimerService.csprojAssemblyReference.cache
+C:\eva\Projects\dotNet\TimerService\TimerService\obj\Debug\TimerService.csproj.CoreCompileInputs.cache
+C:\eva\Projects\dotNet\TimerService\TimerService\obj\Debug\TimerService.csproj.CopyComplete
+C:\eva\Projects\dotNet\TimerService\TimerService\obj\Debug\TimerService.exe
+C:\eva\Projects\dotNet\TimerService\TimerService\obj\Debug\TimerService.pdb
+C:\eva\Projects\dotNet\TimerService\TimerService\bin\Debug\CsvToJson.dll
+C:\eva\Projects\dotNet\TimerService\TimerService\bin\Debug\CsvToJson.pdb
